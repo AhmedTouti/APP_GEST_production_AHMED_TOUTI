@@ -1,0 +1,52 @@
+body {
+    background-attachment: fixed;
+    background-image: url("body22.jpg");
+    background-size: 100% 100%;
+}
+
+.logindiv {
+    width: 25%;
+    height: 510px;
+    margin-top: 5%;
+    border-color: #44318d;
+    border-radius: 6px;
+    border-style: groove;
+}
+
+.label {
+    margin-top: 15px;
+    color: #44318d;
+}
+
+.input {
+    margin-top: 15px;
+    width: 210px;
+   border-width:1px;
+    border-radius:5px;
+    border-color: #44318d;
+    padding:7px;
+}
+
+.input1 {
+    margin-top: 15px;
+}
+
+.hr {
+    width: 250px;
+    border-color: #687864;
+}
+
+.input ::placeholder {
+    font-size: large;
+}
+
+.logindiv .submit {
+    width: 200px;
+    height: 25px;
+    margin: 0%;
+    border-radius: 7px;
+}
+
+.logo {
+    margin: 0%;
+}

@@ -1,0 +1,72 @@
+.addcontent {
+    margin-top:0%;
+    float: left;
+    padding: 15px;
+    margin-left: 100px;
+    height: 400px;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.input_content {
+    width: 200px;
+    border-radius: 5px;
+    margin: 20px;
+    margin-top:0%;
+    padding: 5px;
+}
+
+.btn_choisie {
+    float: left;
+    border-radius: 5px;
+    width: 50px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.btn_valider {
+    float: left;
+    border-radius: 5px;
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.img_holder {
+
+   
+    float: right;
+    margin-top: 52px;
+    width: 200px;
+    height: 200px;
+    margin-right: 510px;
+    border-radius: 5px;
+}
+
+hr {
+    width: 250px;
+    border-color: #687864;
+
+}
+
+.h11 {
+    margin-left:10px;
+    color: #44318d;
+    font-family: candara;
+    padding: 15px;
+   
+}
+#show {
+   
+    width: 280px;
+    height: 90px;
+    margin-top: 40px;
+    background-color: #44318d;
+     padding:5px;
+     border-radius:8px;
+}
+.fileup{
+    margin-top:30px;
+    margin-left:30px;
+}
