@@ -1,0 +1,14 @@
+to log in as admin to see all the web site use :
+Ahmed as name 
+and 
+12345678
+as pwd
+to see as an employy use 
+Said as name
+and 
+12345678
+as pwd
+------------------------------------------
+use the sqlserver database "gest_prod" to get all the data its in the same folder as source code
+it's me ahmed touti x);
+thanx to you 
